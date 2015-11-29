@@ -12,3 +12,7 @@ export PATH=$PATH:/path/to/aplscript/bin
 ```
 $ node-web node-project-dir
 ```
+
+
+# TODO
+* dependencisng my dir structure
