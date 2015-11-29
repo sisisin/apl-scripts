@@ -1,0 +1,3 @@
+#/bin/sh
+spath=`dirname "${0}"`
+osascript $spath/../scripts/node-web.applescript $1

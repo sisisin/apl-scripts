@@ -1,4 +1,14 @@
 # Usage
+
+## first
+write down 'export' to .bash_profile
+ 
 ```
-$ osascript node-web.scpt doujinDB
+export PATH=$PATH:/path/to/aplscript/bin
+```
+
+## use
+
+```
+$ node-web node-project-dir
 ```
